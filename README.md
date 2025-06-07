@@ -39,7 +39,7 @@ Features:
 * Privacy-preserving zero-knowledge layers
 * Interoperability with content and data platforms
 
-See `[unit.md](./unit.md)` for technical details.
+See [`unit.md`](./unit.md) for technical details.
 
 ### 2. CAT Protocol: Content Access with Cryptographic Memory
 
@@ -57,7 +57,7 @@ Features:
 * Micro-royalty payments
 * Cross-platform interoperability
 
-See `[CAT.md](./CAT.md)` for protocol specification.
+See [`CAT.md`](./CAT.md) for protocol specification.
 
 ### 3. Recursive Emergence Framework: The Law of Emergent Value
 
@@ -74,7 +74,7 @@ Key principles:
 * Selfhood = compression of recursive memory
 * Consciousness = simulation of internal feedback
 
-See `[theis](https://recursive-emergence.github.io/RE/)` for full theory.
+See [`thesis`](https://recursive-emergence.github.io/RE/) for full theory.
 
 ## Architecture
 
